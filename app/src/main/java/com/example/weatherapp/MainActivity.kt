@@ -2,12 +2,7 @@ package com.example.weatherapp
 // retrofit is used to establish connection between internet and download the file.
 //import androidx.core.app.ActivityCompat
 //import androidx.databinding.DataBindingUtil
-//import com.google.gson.Gson
-//import org.abubaker.weatherapp.utils.Constants
-//import org.abubaker.weatherapp.R
-//import org.abubaker.weatherapp.databinding.ActivityMainBinding
-//import org.abubaker.weatherapp.models.WeatherResponse
-//import org.abubaker.weatherapp.network.WeatherService
+
 import retrofit2.*
 //import retrofit2.converter.gson.GsonConverterFactory
 import java.text.SimpleDateFormat
